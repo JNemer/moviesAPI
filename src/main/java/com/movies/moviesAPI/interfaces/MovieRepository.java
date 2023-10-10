@@ -1,4 +1,4 @@
-package com.movies.moviesAPI;
+package com.movies.moviesAPI.interfaces;
 
 import com.movies.moviesAPI.entities.Movie;
 import org.bson.types.ObjectId;

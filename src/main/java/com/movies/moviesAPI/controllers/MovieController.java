@@ -1,7 +1,7 @@
-package com.movies.moviesAPI;
+package com.movies.moviesAPI.controllers;
 
 import com.movies.moviesAPI.entities.Movie;
-import org.bson.types.ObjectId;
+import com.movies.moviesAPI.services.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
